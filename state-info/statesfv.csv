@@ -1,0 +1,53 @@
+state,latitude,longitude,name,count,Sector,% of sun per year,Avg Temp,Avg Icome,Country,Tech job per state
+AK,63.588753,-154.493062,Alaska,4,Services,41,26.6,68734,United States,17785
+AL,32.318231,-86.902298,Alabama,11,Manufacturing,58,62.8,49936,United States,148932
+AR,35.20105,-91.831833,Arkansas,0,Manufacturing,61,60.4,49781,United States,56219
+AZ,34.048928,-111.093731,Arizona,13,Services,85,60.3,62283,United States,252467
+CA,36.778261,-119.417932,California,255,Services,68,59.4,70489,United States,1866951
+CO,39.550051,-105.782067,Colorado,51,Services,71,45.1,73034,United States,305708
+CT,41.603221,-73.087749,Connecticut,9,Services,56,49,72812,United States,139717
+DC,38.905985,-77.033418,District of Columbia,0,,,,85750,United States,81184
+DE,38.910832,-75.52767,Delaware,1,Services,,55.3,65012,United States,33923
+FL,27.664827,-81.515754,Florida,35,Services,66,70.7,54644,United States,585296
+GA,32.157435,-82.907123,Georgia,37,Services,66,63.5,55821,United States,367462
+HI,19.898682,-155.665857,Hawaii,1,Services,71,70,80108,United States,30804
+IA,41.878003,-93.097702,Iowa,14,Manufacturing,59,47.8,68718,United States,95290
+ID,44.068202,-114.742041,Idaho,6,Manufacturing,64,44.4,58728,United States,54010
+IL,40.633125,-89.398528,Illinois,196,Services,56,51.8,70145,United States,441205
+IN,40.551217,-85.602364,Indiana,69,Manufacturing,55,51.7,59892,United States,183803
+KS,39.011902,-98.484246,Kansas,25,Manufacturing,65,54.3,63938,United States,95208
+KY,37.839333,-84.270018,Kentucky,9,Manufacturing,56,55.6,54555,United States,96915
+LA,31.244823,-92.145024,Louisiana,6,Manufacturing,57,66.4,49973,United States,85553
+MA,42.407211,-71.382437,Massachusetts,58,Services,58,47.9,86345,United States,440793
+MD,39.045755,-76.641271,Maryland,32,Services,57,54.2,86223,United States,296006
+ME,45.253783,-69.445469,Maine,7,Services,57,41,58663,United States,37815
+MI,44.314844,-85.602364,Michigan,85,Manufacturing,51,44.4,60449,United States,412324
+MN,46.729553,-94.6859,Minnesota,81,Manufacturing,58,41.2,71817,United States,251076
+MO,37.964253,-91.831833,Missouri,29,Services,60,54.5,61726,United States,211894
+MS,32.354668,-89.398528,Mississippi,0,Manufacturing,61,63.4,42781,United States,44384
+MT,46.879682,-110.362566,Montana,2,Services,59,42.7,57679,United States,23442
+NC,35.759573,-79.0193,North Carolina,37,Manufacturing,60,59,53369,United States,365166
+ND,47.551493,-101.002012,North Dakota,7,Manufacturing,59,40.4,66505,United States,22790
+NE,41.492537,-99.901813,Nebraska,59,Manufacturing,61,48.8,67575,United States,64362
+NH,43.193852,-71.572395,New Hampshire,10,Services,54,43.8,81346,United States,72411
+NJ,40.058324,-74.405661,New Jersey,21,Services,56,52.7,74176,United States,342795
+NM,34.97273,-105.032363,New Mexico,7,Services,76,53.4,48283,United States,67743
+NV,38.80261,-116.419389,Nevada,6,Services,79,49.9,61864,United States,71275
+NY,43.299428,-74.217933,New York,92,Services,46,45.4,67274,United States,679083
+OH,40.417287,-82.907123,Ohio,79,Manufacturing,50,50.7,61633,United States,401066
+OK,35.007752,-97.092877,Oklahoma,15,Manufacturing,68,59.6,54434,United States,91414
+OR,43.804133,-120.554201,Oregon,67,Manufacturing,48,48.4,69165,United States,166563
+PA,41.203322,-77.194525,Pennsylvania,64,Services,58,48.8,64524,United States,445168
+PR,18.220833,-66.590149,Puerto Rico,0,,,,,United States,
+RI,41.580095,-71.477429,Rhode Island,4,Services,58,50.1,62266,United States,34684
+SC,33.836081,-81.163725,South Carolina,5,Manufacturing,64,62.4,57444,United States,131765
+SD,43.969515,-99.901813,South Dakota,5,Manufacturing,63,45.2,59463,United States,21737
+TN,35.517491,-86.580447,Tennessee,77,Manufacturing,56,57.6,56060,United States,175785
+TX,31.968599,-99.901813,Texas,76,Manufacturing,61,64.8,59785,United States,1025106
+UT,39.32098,-111.093731,Utah,18,Manufacturing,66,48.6,77067,United States,148772
+VA,37.431573,-78.656894,Virginia,32,Services,63,55.1,77151,United States,446507
+VT,44.558803,-72.577841,Vermont,6,Services,49,42.9,70066,United States,22415
+WA,47.751074,-120.740139,Washington,97,Services,47,48.3,79726,United States,392020
+WI,43.78444,-88.787868,Wisconsin,32,Manufacturing,54,43.1,62629,United States,217837
+WV,38.597626,-80.454903,West Virginia,1,Manufacturing,,51.8,50573,United States,30480
+WY,43.075968,-107.290284,Wyoming,1,Manufacturing,68,42,62539,United States,9361

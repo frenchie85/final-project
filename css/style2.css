@@ -8,7 +8,7 @@
 .wrapper{
     display: flex;
     flex-direction: row;
-    width: 500vw;
+    width: 700vw;
     transform: rotate(90deg) translateY(-100vh);
     transform-origin: top left;
 }
@@ -26,12 +26,21 @@
 }
 
 .four{
-    background: rgb(187, 172, 172);
+    background: rgb(196, 194, 194);
 }
 
 .three{
     background: #ffff;
 }
+
+.five{
+    background: rgb(59, 59, 59);
+}
+
+.six{
+    background: white;
+}
+
 
 .outer-wrapper{
 width: 100vh;
@@ -186,6 +195,24 @@ font-size: 10px;
       transform: scale(2); 
   }
 
+
+  .illu6{
+    height: 250px;
+    display:block;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    z-index:999;
+    cursor: pointer;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease;
+
+  }
+
+  .illu6:hover {
+      transform: scale(1.5); 
+  }
 
 
   @font-face {
