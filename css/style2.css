@@ -8,7 +8,7 @@
 .wrapper{
     display: flex;
     flex-direction: row;
-    width: 600vw;
+    width: 500vw;
     transform: rotate(90deg) translateY(-100vh);
     transform-origin: top left;
 }
@@ -18,23 +18,15 @@
 }
 
 .one{
-    background: rgb(59, 59, 59);
+    background: white;
 }
 
 .two{
-    background: rgb(189, 188, 188);
+    background: white;
 }
 
 .four{
     background: white;
-}
-
-.three{
-    background: #ffff;
-}
-
-.five{
-    background: rgb(59, 59, 59);
 }
 
 .six{
@@ -103,17 +95,17 @@ font-size: 10px;
     margin-top: 5%;
     font-size: 50px;
     font-family: myFont !important;
-    color: white;
+    color: black;
 }
 .subtitle1{
     margin-top: 0;
     font-size: 30px;
     font-family: myFont !important;
-    color: white;
+    color: black;
 }
 
 .paragraph1{
-    color: white;
+    color: black;
 }
 
 .paragraph6{
@@ -193,7 +185,10 @@ font-size: 10px;
   }
 
   .illu2{
-    height: 300px;
+    height: 400px;
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-right: 10px;
     position: relative;
     display:block;
     z-index:999;
@@ -208,11 +203,11 @@ font-size: 10px;
       transform: scale(1.5); 
   }
 
-
   .illu6{
     height: 250px;
     display:block;
     position: relative;
+    margin-left: 50px;
     padding-left: 10px;
     padding-right: 10px;
     z-index:999;
@@ -224,7 +219,7 @@ font-size: 10px;
   }
 
   .illu6:hover {
-      transform: scale(1.5); 
+      transform: scale(1.75); 
   }
 
 
